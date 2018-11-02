@@ -19,9 +19,12 @@
   },
   "homepage": "https://github.com/dmgv/puc-frontend-arch#readme",
   "dependencies": {
+    "baguettebox.js": "^1.10.0",
     "bootstrap": "^4.1.1",
     "express": "^4.16.3",
+    "jquery": "^3.3.1",
     "node-sass": "^4.9.0",
-    "parcel": "^1.9.2"
+    "parcel": "^1.9.2",
+    "popper.js": "^1.14.3"
   }
 }
